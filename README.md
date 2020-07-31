@@ -8,4 +8,4 @@ K-Bart is an app that allows to barter items.
 ## Getting started
  - Install npm 
  - Run: *npm start*
- - Run [rails server](https://github.com/scypher6/K-Bart)
+ - Run [rails server](https://github.com/scypher6/k-bart-frontend)
