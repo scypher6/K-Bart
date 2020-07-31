@@ -7,4 +7,4 @@ K-Bart is an app that allows to barter items.
 
 ## Getting started
  - Run: *bundle install*
- - Run [frontend server:](https://github.com/scypher6/k-bart-frontend)
+ - Run [frontend server](https://github.com/scypher6/k-bart-frontend)
