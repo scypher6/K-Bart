@@ -6,6 +6,5 @@ K-Bart is an app that allows to barter items.
 - Devise gem
 
 ## Getting started
- - Install npm 
- - Run: *npm start*
- - Run [rails server](https://github.com/scypher6/k-bart-frontend)
+ - Run: *bundle install*
+ - Run frontend server: [rails server](https://github.com/scypher6/k-bart-frontend)
