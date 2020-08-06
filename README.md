@@ -1,5 +1,5 @@
-# K-Bart
-An app that for to bartering and trading items.
+# K-Bart - Backend
+An app for to bartering and trading items.
 
 ## Technologies
 - Ruby-on-Rails
