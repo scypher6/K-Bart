@@ -1,5 +1,5 @@
 # K-Bart
-K-Bart is an app that allows to barter items.
+An app that for to bartering and trading items.
 
 ## Technologies
 - Ruby-on-Rails
